@@ -1,7 +1,8 @@
 import sqlite3
 import datetime
 
-con = sqlite3.connect('YourFinance.db')
+db_path="your database path where you want/created the database"
+con = sqlite3.connect(db_path)
 c = con.cursor()
 
 def getUserInput():
