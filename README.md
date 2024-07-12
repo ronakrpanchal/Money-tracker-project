@@ -1,1 +1,1 @@
-# finance-tracker-project
+# Money-tracker-project
