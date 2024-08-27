@@ -1,4 +1,4 @@
-# Money Tracker Project
+# 💵 Money Tracker Project
 
 The Python project that manages your daily finances using sqlite3 library.This project demonstrates the use of SQL in python.
 
